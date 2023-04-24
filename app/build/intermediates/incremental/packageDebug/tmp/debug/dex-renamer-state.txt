@@ -1,14 +1,14 @@
-#Fri Mar 31 09:17:41 CEST 2023
+#Sat Apr 01 18:12:29 CEST 2023
 path.4=5/classes.dex
-path.3=15/classes.dex
-path.2=4/classes.dex
+path.3=4/classes.dex
+path.2=15/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.4=C\:\\Users\\bjorn\\AndroidStudioProjects\\TravelApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.3=C\:\\Users\\bjorn\\AndroidStudioProjects\\TravelApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.2=C\:\\Users\\bjorn\\AndroidStudioProjects\\TravelApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.1=C\:\\Users\\bjorn\\AndroidStudioProjects\\TravelApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=C\:\\Users\\bjorn\\AndroidStudioProjects\\TravelApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.4=C\:\\Users\\abdul\\travel-app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.3=C\:\\Users\\abdul\\travel-app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.2=C\:\\Users\\abdul\\travel-app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.1=C\:\\Users\\abdul\\travel-app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\abdul\\travel-app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
