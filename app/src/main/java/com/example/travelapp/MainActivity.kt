@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         Todo("Fok smash door", true),
         Todo("get good grades", false)
         //try
+        //fiefie
     )
     var adapter = Recycler(sampleTodoItems)
         binding.rvwTodo.adapter = adapter
